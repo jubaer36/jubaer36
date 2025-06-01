@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Al+Jubaer;CS+Undergrad+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Al+Jubaer;CS+Undergrad+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast+%F0%9F%A4%96;Coding+my+way+out+of+a+deadlock+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,11 +15,11 @@
 
 ```yaml
 name: Abdullah Al Jubaer
-education: Computer Science Undergraduate
+education: CS Undergrad
 current_focus: ["Machine Learning", "Deep Learning", "Full Stack Development"]
-learning: ["Next.js", "React.js", "ML/DL", "Data Science"]
-interests: ["AI/ML", "Web Development", "Open Source"]
-goals_2025: ["Master Full Stack Development", "Contribute to ML Projects"]
+learning: ["Next.js", "React.js", "ML/DL", "Data Science", "Backend"]
+interests: ["AI/ML", "Web Development", "App Development"]
+goals_2025: ["Master Full Stack Development", "Contribute to Open Source Projects" , "Publish a paper on ML/DL"]
 fun_fact: "I debug with console.log and I'm not ashamed! 🐛"
 ```
 
