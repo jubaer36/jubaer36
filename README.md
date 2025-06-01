@@ -33,7 +33,7 @@ fun_fact: "I debug with console.log and I'm not ashamed! 🐛"
 </div>
 
 <div align="center">
-## 🔥 Currently Working On
+Currently Working On
 
 <div align="center">
   <table>
