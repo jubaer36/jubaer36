@@ -161,6 +161,9 @@ fun_fact: "I debug with console.log and I'm not ashamed! 🐛"
   <a href="https://medium.com/@abdullahaljubaergem" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <a href="https://www.kaggle.com/jubaer36" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
   <a href="https://discordapp.com/users/_sol_36" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
