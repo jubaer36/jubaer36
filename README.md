@@ -212,5 +212,5 @@ Currently Working On
   <i>⚡ "First law of computer science: If it works, don’t touch it."</i>
   <br/>
   <br/>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I don't love connecting with different people</b> so if you want to say <b>Please don't</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I don't love connecting with different people</b> so if you want to say Hi <b>Please don't</b> 😊</em>
 </div>
