@@ -183,7 +183,11 @@ Currently Working On
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jubaer36/jubaer36/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jubaer36/jubaer36/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jubaer36/jubaer36/output/snake-light.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jubaer36/jubaer36/output/snake.svg">
+  </picture>
 </div>
 
 ## 📈 Activity Graph
