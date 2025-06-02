@@ -209,8 +209,8 @@ Currently Working On
 </div>
 
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>⚡ "First law of computer science: If it works, don’t touch it."</i>
   <br/>
   <br/>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I don't love connecting with different people</b> so if you want to say <b>Please don't</b> 😊</em>
 </div>
