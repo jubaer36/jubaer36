@@ -17,9 +17,9 @@
 name: Abdullah Al Jubaer
 education: CS Undergrad
 current_focus: ["Machine Learning", "Deep Learning", "Full Stack Development"]
-learning: ["Next.js", "React.js", "ML/DL", "Data Science", "Backend"]
+learning: ["Next.js", "React.js", "ML/DL", "Data Science","AI Agent", "Backend"]
 interests: ["AI/ML", "Web Development", "App Development"]
-goals_2025: ["Master Full Stack Development", "Contribute to Open Source Projects" , "Publish a paper on ML/DL"]
+goals_2025: ["Master Full Stack Development", "Master AI and Data Science" , "Publish a paper on ML/DL"]
 fun_fact: "I debug with console.log and I'm not ashamed! 🐛"
 ```
 
