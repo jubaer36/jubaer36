@@ -51,9 +51,6 @@ Almost everything in life piques my interest. May that be complex math problems 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubaer36&layout=compact&theme=default&hide_border=true)
 
 ## GitHub Contribution Calendar
-
-![GitHub Contribution Streak](https://github-readme-streak-stats.vercel.app/?user=jubaer36&theme=dark&hide_border=true)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jubaer36&theme=github-compact&hide_border=true&area=true)
 
 ## Contribution Graphs
@@ -61,8 +58,6 @@ Almost everything in life piques my interest. May that be complex math problems 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/jubaer36/jubaer36/output/snake.svg)
-
-![Pacman animation](https://raw.githubusercontent.com/jubaer36/jubaer36/output/pacman.svg)
 
 </div>
 
