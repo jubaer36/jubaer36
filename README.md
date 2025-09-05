@@ -12,7 +12,7 @@
 
 ## About Me
 
-Almost everything in life piques my interest. May that be complex math problems with solutions yet to be discovered or poems/stories written as legends . Eventually accepting the brutal truth of not being able to pursue every interest of my life I have eventually chosen Computer Science to be my primary field of exploration. This workspace is my laboratory—messy and unfinished, more like a child’s playground than a polished setup—imperfect, unarranged, but entirely my own. The journey began quite a while ago and yet the tools are still arriving , the knowledge yet to be earned but still no signs of stopping. Here, in this playground of ones and zeros, I experiment, stumble, learn, and occasionally even build something that works on the first try (a rare but celebrated event).
+Almost everything in life piques my interest. May that be complex math problems with solutions yet to be discovered or poems/stories written as legends . Eventually accepting the brutal truth of not being able to pursue every interest of my life I have chosen Computer Science to be my primary field of exploration. This workspace is my laboratory—messy and unfinished, more like a child’s playground than a polished setup—imperfect, unarranged, but entirely my own. The journey began a while ago and yet the tools are still arriving , the knowledge yet to be earned but no signs of stopping. Here, in this playground of ones and zeros, I experiment, stumble, learn, and occasionally even build something that works on the first try (a rare but celebrated event).
 
 ## Technical Skills
 
