@@ -35,7 +35,7 @@ Almost everything in life piques my interest. May that be complex math problems 
 - **Version Control:** Git, GitHub
 - **Operating System:** Linux (Arch , Ubuntu)
 - **Design:** Figma
-- **Other:** Blender
+- **Other:** Blender, Arduino
 
 ## Current Focus
 
@@ -74,4 +74,4 @@ Feel free to reach out for anything at all
 
 
 
-*"Trying to code my way out of the deadlock named life."*
+*"Trying to code my way out of the deadlocks of life."*
