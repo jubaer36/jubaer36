@@ -1,11 +1,12 @@
 # Abdullah Al Jubaer
 
 **Computer Science Undergraduate at IUT**
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-1877F2?style=flat&logo=internet-explorer&logoColor=white)](https://jubaer36.github.io/abdullah-al-jubaer-gem/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abdullahaljubaer.gem36)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-jubaer-3208031aa/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@abdullahaljubaergem)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/jubaer36)
+
 
 
 
