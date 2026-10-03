@@ -1,6 +1,6 @@
 # Abdullah Al Jubaer
 
-**Computer Science Undergraduate at IUT**
+**Computer Science Undergraduate from IUT**
 [![Portfolio](https://img.shields.io/badge/Portfolio-1877F2?style=flat&logo=internet-explorer&logoColor=white)](https://jubaer36.github.io/abdullah-al-jubaer-gem/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abdullahaljubaer.gem36)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-jubaer-3208031aa/)
@@ -41,7 +41,7 @@ Almost everything in life piques my interest. May that be complex math problems 
 ## Current Focus
 
 - **Machine Learning & Deep Learning:** Exploring the depths of deep learning itself
-- **Full Stack Development:** Learning to speak both backend and frontend—sometimes acting as the translator between the two.
+- **Full Stack Development:** Learning to speak both backend and frontend sometimes acting as the translator between the two.
 - **Data Science:** The only way I can call myself a scientist
 
 
